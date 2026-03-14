@@ -62,17 +62,4 @@ There are external links to various streaming platforms which will open the albu
 |------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | ![](fastlane/metadata/android/en-US/images/phoneScreenshots/5_release_details.png) | ![](fastlane/metadata/android/en-US/images/phoneScreenshots/6_release_tracks.png) | ![](fastlane/metadata/android/en-US/images/phoneScreenshots/7_all_collections.png) | ![](fastlane/metadata/android/en-US/images/phoneScreenshots/8_collection_management.png) |
 
-## Development
 
-[See here](./docs/README.md) for notes on setting up the project, and some development processes.
-
-You can help translate this project through Weblate by clicking this [link](https://hosted.weblate.org/engage/musicsearch/) or the image below:
-
-<a href="https://hosted.weblate.org/engage/musicsearch/">
-<img src="https://hosted.weblate.org/widget/musicsearch/translations/287x66-grey.png" alt="Translation status" />
-</a>
-
-## Privacy Policy
-
-See [PRIVACY_POLICY.md](PRIVACY_POLICY.md) for Android and Desktop.
-See [PRIVACY_POLICY_IOS.md](PRIVACY_POLICY_IOS.md) for iOS.
